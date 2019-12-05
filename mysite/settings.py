@@ -25,7 +25,7 @@ SECRET_KEY = 'tzg%n@a%eb1hv(=gp%sm)9k^&im%qk#(*%x&)=-b^0$8lnxpvo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kangyoonbae-euox.localhost.run','127.0.0.1']
 
 
 # Application definition
